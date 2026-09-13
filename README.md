@@ -9,7 +9,7 @@ MCP (Grok, Codex, Cursor, …) — see [Connect from other clients](#connect-fro
 **Installing it** means deploying this small server to your own free Cloudflare account
 and pasting its address into Claude. It is complete as it is — nothing needs to be built
 or designed to start using it. (Want to build something on top, like a dashboard? Go
-ahead — the code is MIT and the tools are plain MCP.)
+ahead — the code is AGPL-3.0 and the tools are plain MCP.)
 
 - **Runs in the cloud** (Cloudflare Workers, free tier). Nothing to install, nothing to
   keep running on your laptop. Works in claude.ai on web, desktop and phone.
@@ -350,4 +350,4 @@ extraction, fencing of untrusted content).
 
 ## License
 
-[MIT](LICENSE)
+[AGPL-3.0-or-later](LICENSE). You may use, modify and self-host it freely; if you distribute it or run a modified version as a network service for others, you must publish your modified source under the same license. Versions before 2026-09-13 were MIT-licensed and that grant remains valid for them.

@@ -2,7 +2,7 @@
   "name": "canvas-mcp-connector",
   "version": "1.0.0",
   "description": "Read-only Canvas LMS connector for Claude, hosted on Cloudflare Workers. One-click deploy.",
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "private": true,
   "type": "module",
   "scripts": {
